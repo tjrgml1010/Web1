@@ -1,10 +1,3 @@
-# Web1
-<!doctype html>
-<html>
-<head>
-  <title>서키의 생애 처음으로 배우는 코딩</title>
-  <meta charset="utf=8">
-  </head>
   <body>
 <h1>나의 꿈</h1>
 <ol>
